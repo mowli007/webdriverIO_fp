@@ -1,0 +1,7 @@
+{
+    "name": "common-actions",
+    "version": "0.1.1",
+    "description": "common methods page",
+    "main": "actions_wd.js",
+    "dependencies": {}
+}
