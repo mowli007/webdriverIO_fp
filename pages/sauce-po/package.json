@@ -1,7 +1,7 @@
 {
     "name": "sauce-po",
     "version": "0.1.1",
-    "description": "Sauce Demo page object",
-    "main": "sauce_demo.js",
+    "description": "Page object",
+    "main": "login_page.js",
     "dependencies": {}
 }
