@@ -1,0 +1,7 @@
+{
+    "name": "cart-po",
+    "version": "0.1.1",
+    "description": "Cart Page object",
+    "main": "cart_page.js",
+    "dependencies": {}
+}

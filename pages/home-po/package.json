@@ -1,0 +1,7 @@
+{
+    "name": "home-po",
+    "version": "0.1.1",
+    "description": "Home Page object",
+    "main": "home_page.js",
+    "dependencies": {}
+}
